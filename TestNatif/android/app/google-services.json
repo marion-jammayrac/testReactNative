@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "283655634117",
+    "firebase_url": "https://testbmpm-193cb.firebaseio.com",
+    "project_id": "testbmpm-193cb",
+    "storage_bucket": "testbmpm-193cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283655634117:android:87d7dec1671e4aab0c04ac",
+        "android_client_info": {
+          "package_name": "com.testnatif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283655634117-02u3kf17hi5lgmp4f7rjipribauahn12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwggyMif3uE47LHr-apNHeMuhuI3GJsIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283655634117-02u3kf17hi5lgmp4f7rjipribauahn12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

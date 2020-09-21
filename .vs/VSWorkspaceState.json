@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TestNatif",
+    "\\TestNatif\\Components",
+    "\\TestNatif\\Navigation"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\TestNatif\\Components\\FilmItem.js",
   "PreviewInSolutionExplorer": false
 }
